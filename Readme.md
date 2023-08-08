@@ -3,7 +3,7 @@
 ## whoami
 
 <p>Hey there ! 👋</p> 
-I'm Anurag, a passionate developer with experience in Golang, Java, and Python. I specialize in backend development, system administration, and cloud computing. I'm passionate about building high-quality products and solving problems.
+I'm Anurag, a developer with experience in Golang, Java, and Python. I specialize in backend development, system administration, and cloud computing. I'm passionate about building high-quality products and solving problems.
 <br>
 
 ## What I'm upto
